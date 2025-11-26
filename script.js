@@ -7,6 +7,7 @@ let arr = [
     { song: 'Skyfall', url: 'songs/Adele - Skyfall.mp3', poster: 'posters/Skyfall.jpg' },
     { song: 'Blinding lights', url: 'songs/The Weeknd - Blinding Lights.mp3', poster: 'posters/Blinding lights.jpg' },
     { song: 'Pal Pal - Talwiinder', url: 'songs/Afusic - Pal Pal Pal.mp3', poster: 'posters/Pal Pal poster.jpg' },
+    { song: 'Sailor Song', url: 'songs/Gigi Perez - Sailor Song.mp3', poster: 'posters/Sailor song poster.jpg' },
 
 ]
 
