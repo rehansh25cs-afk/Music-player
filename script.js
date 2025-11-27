@@ -8,6 +8,8 @@ let arr = [
     { song: 'Blinding lights', url: 'songs/The Weeknd - Blinding Lights.mp3', poster: 'posters/Blinding lights.jpg' },
     { song: 'Pal Pal - Talwiinder', url: 'songs/Afusic - Pal Pal Pal.mp3', poster: 'posters/Pal Pal poster.jpg' },
     { song: 'Sailor Song', url: 'songs/Gigi Perez - Sailor Song.mp3', poster: 'posters/Sailor song poster.jpg' },
+    { song: 'This is what winter feels like', url: 'songs/JVKE - this is what winter feels like.mp3', poster: 'posters/this is what winter feels like poster.jpg' },
+    { song: 'I Think They Call This Love.mp3', url: 'songs/Elliot James Reay - I Think They Call This Love.mp3', poster: 'posters/This is what they call love.jpg' },
 
 ]
 
